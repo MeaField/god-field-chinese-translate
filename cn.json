@@ -1,0 +1,2914 @@
+{
+    "items": [
+      {
+        "name": "捨てる",
+        "imageName": "discard",
+        "category": "trade",
+        "ability": "discard"
+      },
+      {
+        "name": "両替",
+        "imageName": "exchange",
+        "category": "trade",
+        "ability": "exchange",
+        "price": 5,
+        "giftRate": 20
+      },
+      {
+        "name": "売る",
+        "imageName": "sell",
+        "category": "trade",
+        "ability": "sell",
+        "price": 5,
+        "giftRate": 20
+      },
+      {
+        "name": "買う",
+        "imageName": "buy",
+        "category": "trade",
+        "ability": "buy",
+        "price": 5,
+        "giftRate": 20
+      },
+      {
+        "name": "銅のこん棒",
+        "imageName": "bronze-club",
+        "category": "weapons",
+        "atk": 1,
+        "price": 1,
+        "giftRate": 3
+      },
+      {
+        "name": "銀のこん棒",
+        "imageName": "silver-club",
+        "category": "weapons",
+        "atk": 1,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "金のこん棒",
+        "imageName": "gold-club",
+        "category": "weapons",
+        "atk": 1,
+        "price": 25,
+        "giftRate": 1
+      },
+      {
+        "name": "吹き矢",
+        "imageName": "blowgun",
+        "category": "weapons",
+        "atk": 1,
+        "isPlusAtk": true,
+        "price": 1,
+        "giftRate": 1
+      },
+      {
+        "name": "ムチ",
+        "imageName": "whip",
+        "category": "weapons",
+        "atk": 2,
+        "price": 1,
+        "giftRate": 4
+      },
+      {
+        "name": "セイバーロッド",
+        "imageName": "saver-rod",
+        "category": "weapons",
+        "atk": 2,
+        "def": 6,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "ボウガン",
+        "imageName": "bowgun",
+        "category": "weapons",
+        "atk": 2,
+        "isPlusAtk": true,
+        "price": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "パンチ",
+        "imageName": "punch",
+        "category": "weapons",
+        "atk": 3,
+        "price": 1,
+        "giftRate": 5
+      },
+      {
+        "name": "ブーメラン",
+        "imageName": "boomerang",
+        "category": "weapons",
+        "atk": 3,
+        "isPlusAtk": true,
+        "price": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "鎖ガマ",
+        "imageName": "chain-sickle",
+        "category": "weapons",
+        "atk": 4,
+        "price": 2,
+        "giftRate": 6
+      },
+      {
+        "name": "とげベルト",
+        "imageName": "spiked-belt",
+        "category": "weapons",
+        "atk": 4,
+        "def": 2,
+        "price": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "バトルボール",
+        "imageName": "battle-ball",
+        "category": "weapons",
+        "atk": 4,
+        "isPlusAtk": true,
+        "price": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "ハチェット",
+        "imageName": "hatchet",
+        "category": "weapons",
+        "atk": 5,
+        "price": 2,
+        "giftRate": 7
+      },
+      {
+        "name": "強打の鉄板",
+        "imageName": "plate-of-strike",
+        "category": "weapons",
+        "atk": 5,
+        "def": 7,
+        "price": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "乱弾武剣",
+        "imageName": "bouncing-sword",
+        "category": "weapons",
+        "atk": 5,
+        "ability": "bounceWeapon",
+        "price": 10,
+        "giftRate": 7
+      },
+      {
+        "name": "戦士の弓",
+        "imageName": "fighter-s-bow",
+        "category": "weapons",
+        "atk": 5,
+        "isPlusAtk": true,
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "ワンダーエッジ",
+        "imageName": "wonder-edge",
+        "category": "weapons",
+        "atk": 6,
+        "price": 2,
+        "giftRate": 8
+      },
+      {
+        "name": "エルボーサック",
+        "imageName": "elbow-sack",
+        "category": "weapons",
+        "atk": 6,
+        "def": 3,
+        "price": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "ジェットヨーヨー",
+        "imageName": "jet-yo-yo",
+        "category": "weapons",
+        "atk": 6,
+        "isPlusAtk": true,
+        "price": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "グレイトハンマー",
+        "imageName": "great-hammer",
+        "category": "weapons",
+        "atk": 7,
+        "price": 3,
+        "giftRate": 8
+      },
+      {
+        "name": "ゴーストソード",
+        "imageName": "ghost-sword",
+        "category": "weapons",
+        "atk": 7,
+        "ability": "absorbHP",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "未知の羽根",
+        "imageName": "unknown-feather",
+        "category": "weapons",
+        "atk": 7,
+        "isPlusAtk": true,
+        "price": 7,
+        "giftRate": 1
+      },
+      {
+        "name": "ファイナル牙",
+        "imageName": "final-tusk",
+        "category": "weapons",
+        "atk": 8,
+        "price": 3,
+        "giftRate": 8
+      },
+      {
+        "name": "地獄のハサミ",
+        "imageName": "hell-scissors",
+        "category": "weapons",
+        "atk": 8,
+        "ability": "addCurseOnDamage",
+        "curse": "hell",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "サイキックカード",
+        "imageName": "psychic-card",
+        "category": "weapons",
+        "atk": 8,
+        "isPlusAtk": true,
+        "price": 8,
+        "giftRate": 1
+      },
+      {
+        "name": "パワーハルベルト",
+        "imageName": "power-halberd",
+        "category": "weapons",
+        "atk": 9,
+        "price": 3,
+        "giftRate": 7
+      },
+      {
+        "name": "疾風剣",
+        "imageName": "gale-sword",
+        "category": "weapons",
+        "atk": 9,
+        "ability": "addCurseOnDamage",
+        "curse": "cold",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "エンゼルナイフ",
+        "imageName": "angel-knife",
+        "category": "weapons",
+        "atk": 9,
+        "ability": "blockMiracle",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "スカイハープーン",
+        "imageName": "sky-harpoon",
+        "category": "weapons",
+        "atk": 9,
+        "isPlusAtk": true,
+        "ability": "bounceMiracle",
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "退魔の剣",
+        "imageName": "exorcism-sword",
+        "category": "weapons",
+        "atk": 10,
+        "price": 4,
+        "giftRate": 7
+      },
+      {
+        "name": "いんちきスピア",
+        "imageName": "bogus-spear",
+        "category": "weapons",
+        "atk": 10,
+        "ability": "addCurseOnDamage",
+        "curse": "dream",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "ソードシールド",
+        "imageName": "sword-shield",
+        "category": "weapons",
+        "atk": 10,
+        "def": 10,
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "反射剣",
+        "imageName": "reflecting-sword",
+        "category": "weapons",
+        "atk": 10,
+        "ability": "reflectWeapon",
+        "price": 5,
+        "giftRate": 3
+      },
+      {
+        "name": "月光のオノ",
+        "imageName": "moonlight-axe",
+        "category": "weapons",
+        "atk": 10,
+        "ability": "reflectMiracle",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "グラビティメイス",
+        "imageName": "gravity-mace",
+        "category": "weapons",
+        "atk": 11,
+        "price": 4,
+        "giftRate": 5
+      },
+      {
+        "name": "六角凶",
+        "imageName": "hexagon-doom",
+        "category": "weapons",
+        "atk": 11,
+        "ability": "addCurseOnDamage",
+        "curse": "darkcloud",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "恐怖の車輪",
+        "imageName": "horror-wheel",
+        "category": "weapons",
+        "atk": 11,
+        "isPlusAtk": true,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "暴れフレイル",
+        "imageName": "violent-flail",
+        "category": "weapons",
+        "atk": 12,
+        "price": 4,
+        "giftRate": 4
+      },
+      {
+        "name": "リアルゴーストソード",
+        "imageName": "real-ghost-sword",
+        "category": "weapons",
+        "atk": 12,
+        "ability": "absorbHP",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "精霊の杖",
+        "imageName": "spiritual-staff",
+        "category": "weapons",
+        "atk": 12,
+        "ability": "cutCost",
+        "price": 20,
+        "giftRate": 1
+      },
+      {
+        "name": "絶景のヤリ",
+        "imageName": "spear-in-fine-view",
+        "category": "weapons",
+        "atk": 13,
+        "price": 5,
+        "giftRate": 4
+      },
+      {
+        "name": "激烈疾風剣",
+        "imageName": "severe-gale-sword",
+        "category": "weapons",
+        "atk": 13,
+        "ability": "addCurseOnDamage",
+        "curse": "cold",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "伝説の剣のさや",
+        "imageName": "legendary-scabbard",
+        "category": "weapons",
+        "atk": 13,
+        "def": 1,
+        "price": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "エンゼルソード",
+        "imageName": "angel-sword",
+        "category": "weapons",
+        "atk": 13,
+        "ability": "blockMiracle",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "独楽コンバット",
+        "imageName": "top-of-combat",
+        "category": "weapons",
+        "atk": 13,
+        "isPlusAtk": true,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "コズミックロッド",
+        "imageName": "cosmic-rod",
+        "category": "weapons",
+        "atk": 14,
+        "price": 5,
+        "giftRate": 3
+      },
+      {
+        "name": "邪神の大剣",
+        "imageName": "devil-s-broadsword",
+        "category": "weapons",
+        "atk": 14,
+        "ability": "sameDamage",
+        "price": 1,
+        "giftRate": 1
+      },
+      {
+        "name": "ドラゴンクロウ",
+        "imageName": "dragon-claws",
+        "category": "weapons",
+        "atk": 15,
+        "price": 5,
+        "giftRate": 3
+      },
+      {
+        "name": "エンゼルアクス",
+        "imageName": "angel-axe",
+        "category": "weapons",
+        "atk": 15,
+        "ability": "blockMiracle",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "エンゼルの弓",
+        "imageName": "angel-bow",
+        "category": "weapons",
+        "atk": 15,
+        "isPlusAtk": true,
+        "ability": "blockMiracle",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "神の剣",
+        "imageName": "god-sword",
+        "category": "weapons",
+        "atk": 30,
+        "price": 30,
+        "giftRate": 1
+      },
+      {
+        "name": "マジカルステッキ",
+        "imageName": "magical-stick",
+        "category": "weapons",
+        "ability": "atkBy2xMP",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "たいまつ",
+        "imageName": "torch",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 1,
+        "price": 1,
+        "giftRate": 1
+      },
+      {
+        "name": "つらら",
+        "imageName": "icicle",
+        "category": "weapons",
+        "element": "water",
+        "atk": 1,
+        "price": 1,
+        "giftRate": 1
+      },
+      {
+        "name": "木刀",
+        "imageName": "wooden-sword",
+        "category": "weapons",
+        "element": "wood",
+        "atk": 1,
+        "price": 1,
+        "giftRate": 1
+      },
+      {
+        "name": "風のカギ爪",
+        "imageName": "wind-talons",
+        "category": "weapons",
+        "element": "stone",
+        "atk": 1,
+        "ability": "addCurseOnDamage",
+        "curse": "cold",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "輝きのカケラ",
+        "imageName": "piece-of-brightness",
+        "category": "weapons",
+        "element": "light",
+        "atk": 1,
+        "isPlusAtk": true,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "ちくりんちょ",
+        "imageName": "pri-pri-pricker",
+        "category": "weapons",
+        "element": "darkness",
+        "atk": 1,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "あちちナイフ",
+        "imageName": "ouch-knife",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 2,
+        "price": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "発火のワンド",
+        "imageName": "wand-of-ignition",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 2,
+        "isPlusAtk": true,
+        "ability": "setElement",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "いばらのムチ",
+        "imageName": "thorn-whip",
+        "category": "weapons",
+        "element": "wood",
+        "atk": 2,
+        "price": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "葉っぱ手裏剣",
+        "imageName": "leaf-shuriken",
+        "category": "weapons",
+        "element": "wood",
+        "atk": 2,
+        "isPlusAtk": true,
+        "price": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "つるぎ焼き",
+        "imageName": "sword-ware",
+        "category": "weapons",
+        "element": "stone",
+        "atk": 2,
+        "price": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "フラッシュダガー",
+        "imageName": "flash-dagger",
+        "category": "weapons",
+        "element": "light",
+        "atk": 2,
+        "ability": "addCurseOnDamage",
+        "curse": "flash",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "燃えムチ",
+        "imageName": "fire-whip",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 3,
+        "price": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "霧鉄砲",
+        "imageName": "fog-gun",
+        "category": "weapons",
+        "element": "water",
+        "atk": 3,
+        "ability": "addCurseOnDamage",
+        "curse": "fog",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "いがナッツ",
+        "imageName": "bur-nut",
+        "category": "weapons",
+        "element": "wood",
+        "atk": 3,
+        "price": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "熟成ゴムの弓",
+        "imageName": "mature-rubber-bow",
+        "category": "weapons",
+        "element": "wood",
+        "atk": 3,
+        "isPlusAtk": true,
+        "price": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "スタースタッフ",
+        "imageName": "star-staff",
+        "category": "weapons",
+        "element": "light",
+        "atk": 3,
+        "price": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "コブラ",
+        "imageName": "cobra",
+        "category": "weapons",
+        "element": "darkness",
+        "atk": 3,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "ほむら巻き",
+        "imageName": "flaming-roll",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 4,
+        "def": 4,
+        "price": 8,
+        "giftRate": 1
+      },
+      {
+        "name": "ファイヤーボウガン",
+        "imageName": "fire-bowgun",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 4,
+        "isPlusAtk": true,
+        "price": 8,
+        "giftRate": 1
+      },
+      {
+        "name": "氷結ハンマー",
+        "imageName": "frozen-hammer",
+        "category": "weapons",
+        "element": "water",
+        "atk": 4,
+        "price": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "夢の木づち",
+        "imageName": "dream-mallet",
+        "category": "weapons",
+        "element": "wood",
+        "atk": 4,
+        "ability": "addCurseOnDamage",
+        "curse": "dream",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "さよならの剣",
+        "imageName": "farewell-sword",
+        "category": "weapons",
+        "element": "darkness",
+        "atk": 4,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "ブレイズブレイド",
+        "imageName": "blaze-blade",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 5,
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "魔水のワンド",
+        "imageName": "wand-of-mystic-water",
+        "category": "weapons",
+        "element": "water",
+        "atk": 5,
+        "isPlusAtk": true,
+        "ability": "setElement",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "旧石器ジャベリン",
+        "imageName": "paleolithic-javelin",
+        "category": "weapons",
+        "element": "stone",
+        "atk": 5,
+        "isPlusAtk": true,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "ジャスティスランス",
+        "imageName": "justice-lance",
+        "category": "weapons",
+        "element": "light",
+        "atk": 5,
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "キラーフォーク",
+        "imageName": "killer-fork",
+        "category": "weapons",
+        "element": "darkness",
+        "atk": 5,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "冥矢",
+        "imageName": "abyss-dart",
+        "category": "weapons",
+        "element": "darkness",
+        "atk": 5,
+        "isPlusAtk": true,
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "新石器トマホーク",
+        "imageName": "neolithic-tomahawk",
+        "category": "weapons",
+        "element": "stone",
+        "atk": 7,
+        "isPlusAtk": true,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "火竜一角",
+        "imageName": "fire-dragon-s-horn",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 8,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "水竜一角",
+        "imageName": "water-dragon-s-horn",
+        "category": "weapons",
+        "element": "water",
+        "atk": 8,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "聖剣",
+        "imageName": "holy-sword",
+        "category": "weapons",
+        "element": "light",
+        "atk": 9,
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "死神のカマ",
+        "imageName": "death-s-scythe",
+        "category": "weapons",
+        "element": "darkness",
+        "atk": 10,
+        "price": 20,
+        "giftRate": 1
+      },
+      {
+        "name": "ダイヤモンドソード",
+        "imageName": "diamond-sword",
+        "category": "weapons",
+        "element": "stone",
+        "atk": 13,
+        "price": 25,
+        "giftRate": 1
+      },
+      {
+        "name": "あぶないキネ",
+        "imageName": "dangerous-pestle",
+        "category": "weapons",
+        "element": "light",
+        "atk": 30,
+        "ability": "danger",
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "火の粉袋",
+        "imageName": "spark-bag",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 1,
+        "hitRate": 75,
+        "price": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "デーモンハンド",
+        "imageName": "demon-hand",
+        "category": "weapons",
+        "element": "darkness",
+        "atk": 2,
+        "hitRate": 50,
+        "price": 8,
+        "giftRate": 1
+      },
+      {
+        "name": "霧の扇",
+        "imageName": "fog-fan",
+        "category": "weapons",
+        "element": "water",
+        "atk": 3,
+        "hitRate": 50,
+        "ability": "addCurseOnDamage",
+        "curse": "fog",
+        "price": 8,
+        "giftRate": 1
+      },
+      {
+        "name": "つるシュート",
+        "imageName": "vine-shoot",
+        "category": "weapons",
+        "element": "wood",
+        "atk": 3,
+        "hitRate": 75,
+        "ability": "absorbHP",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "イナヅマキッズ",
+        "imageName": "lightning-kids",
+        "category": "weapons",
+        "element": "light",
+        "atk": 3,
+        "hitRate": 25,
+        "price": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "火炎杯",
+        "imageName": "flame-cup",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 4,
+        "hitRate": 75,
+        "price": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "冷気杯",
+        "imageName": "chill-cup",
+        "category": "weapons",
+        "element": "water",
+        "atk": 4,
+        "hitRate": 75,
+        "price": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "植物杯",
+        "imageName": "plant-cup",
+        "category": "weapons",
+        "element": "wood",
+        "atk": 4,
+        "hitRate": 75,
+        "price": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "岩石杯",
+        "imageName": "rock-cup",
+        "category": "weapons",
+        "element": "stone",
+        "atk": 4,
+        "hitRate": 75,
+        "price": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "特大雪玉",
+        "imageName": "oversize-snowball",
+        "category": "weapons",
+        "element": "water",
+        "atk": 5,
+        "hitRate": 50,
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "ガケッツチ",
+        "imageName": "cliff-hammer",
+        "category": "weapons",
+        "element": "stone",
+        "atk": 6,
+        "hitRate": 25,
+        "price": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "光のオーブ",
+        "imageName": "light-orb",
+        "category": "weapons",
+        "element": "light",
+        "atk": 6,
+        "hitRate": 75,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "烈火シャワー",
+        "imageName": "fire-shower",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 7,
+        "hitRate": 75,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "魔神の木馬",
+        "imageName": "jinn-s-rocking-horse",
+        "category": "weapons",
+        "element": "wood",
+        "atk": 8,
+        "hitRate": 75,
+        "def": 6,
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "雨神刀",
+        "imageName": "rain-deity-s-saber",
+        "category": "weapons",
+        "element": "water",
+        "atk": 9,
+        "hitRate": 50,
+        "price": 9,
+        "giftRate": 1
+      },
+      {
+        "name": "フレアアクス",
+        "imageName": "flare-axe",
+        "category": "weapons",
+        "element": "fire",
+        "atk": 10,
+        "hitRate": 50,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "プチサターン",
+        "imageName": "petit-saturn",
+        "category": "weapons",
+        "element": "stone",
+        "atk": 20,
+        "hitRate": 25,
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "昇天弓",
+        "imageName": "ascension-bow",
+        "category": "weapons",
+        "element": "light",
+        "atk": 1,
+        "hitRate": 75,
+        "ability": "attackAfterDeath",
+        "abilityValue": 30,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "革の帽子",
+        "imageName": "leather-cap",
+        "category": "armor",
+        "def": 1,
+        "price": 1,
+        "giftRate": 10
+      },
+      {
+        "name": "スカイブーツ",
+        "imageName": "sky-boots",
+        "category": "armor",
+        "def": 1,
+        "ability": "bounceMiracle",
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "アクアシューズ",
+        "imageName": "aqua-shoes",
+        "category": "armor",
+        "element": "water",
+        "def": 1,
+        "price": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "草かんむり",
+        "imageName": "laurel-wreath",
+        "category": "armor",
+        "element": "wood",
+        "def": 1,
+        "price": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "石版",
+        "imageName": "slate",
+        "category": "armor",
+        "element": "stone",
+        "def": 1,
+        "price": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "革の服",
+        "imageName": "leather-clothes",
+        "category": "armor",
+        "def": 2,
+        "price": 2,
+        "giftRate": 10
+      },
+      {
+        "name": "火花の手袋",
+        "imageName": "sparkle-glove",
+        "category": "armor",
+        "element": "fire",
+        "def": 2,
+        "price": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "アクアグローブ",
+        "imageName": "aqua-glove",
+        "category": "armor",
+        "element": "water",
+        "def": 2,
+        "price": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "木の盾",
+        "imageName": "wood-shield",
+        "category": "armor",
+        "element": "wood",
+        "def": 2,
+        "price": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "岩盤",
+        "imageName": "bedrock",
+        "category": "armor",
+        "element": "stone",
+        "def": 2,
+        "price": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "アイアンガントレット",
+        "imageName": "iron-gauntlet",
+        "category": "armor",
+        "def": 3,
+        "price": 3,
+        "giftRate": 8
+      },
+      {
+        "name": "鬼のくつ",
+        "imageName": "ogres-shoes",
+        "category": "armor",
+        "atk": 5,
+        "isPlusAtk": true,
+        "def": 3,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "スカイガントレット",
+        "imageName": "sky-gauntlet",
+        "category": "armor",
+        "def": 3,
+        "ability": "bounceMiracle",
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "フレイムブーツ",
+        "imageName": "flame-boots",
+        "category": "armor",
+        "element": "fire",
+        "def": 3,
+        "price": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "アイスブーツ",
+        "imageName": "ice-boots",
+        "category": "armor",
+        "element": "water",
+        "def": 3,
+        "price": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "御神木の小手",
+        "imageName": "sacred-tree-gauntlet",
+        "category": "armor",
+        "element": "wood",
+        "def": 3,
+        "price": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "結晶板",
+        "imageName": "crystal-board",
+        "category": "armor",
+        "element": "stone",
+        "def": 3,
+        "price": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "アイアンシールド",
+        "imageName": "iron-shield",
+        "category": "armor",
+        "def": 4,
+        "price": 4,
+        "giftRate": 8
+      },
+      {
+        "name": "フレイムヘルム",
+        "imageName": "flame-helm",
+        "category": "armor",
+        "element": "fire",
+        "def": 4,
+        "price": 8,
+        "giftRate": 1
+      },
+      {
+        "name": "アイスヘルム",
+        "imageName": "ice-helm",
+        "category": "armor",
+        "element": "water",
+        "def": 4,
+        "price": 8,
+        "giftRate": 1
+      },
+      {
+        "name": "林の盾",
+        "imageName": "grove-shield",
+        "category": "armor",
+        "element": "wood",
+        "def": 4,
+        "price": 8,
+        "giftRate": 1
+      },
+      {
+        "name": "大地のくつ",
+        "imageName": "land-shoes",
+        "category": "armor",
+        "element": "stone",
+        "def": 4,
+        "price": 8,
+        "giftRate": 1
+      },
+      {
+        "name": "アイアンアーマー",
+        "imageName": "iron-armor",
+        "category": "armor",
+        "def": 5,
+        "price": 5,
+        "giftRate": 8
+      },
+      {
+        "name": "鬼の小手",
+        "imageName": "ogres-gauntlet",
+        "category": "armor",
+        "atk": 10,
+        "isPlusAtk": true,
+        "def": 5,
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "スカイヘルム",
+        "imageName": "sky-helm",
+        "category": "armor",
+        "def": 5,
+        "ability": "bounceMiracle",
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "フレイムシールド",
+        "imageName": "flame-shield",
+        "category": "armor",
+        "element": "fire",
+        "def": 5,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "アイスシールド",
+        "imageName": "ice-shield",
+        "category": "armor",
+        "element": "water",
+        "def": 5,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "樹脂で編んだ法衣",
+        "imageName": "resin-knit-robe",
+        "category": "armor",
+        "element": "wood",
+        "def": 5,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "大地の小手",
+        "imageName": "land-gauntlet",
+        "category": "armor",
+        "element": "stone",
+        "def": 5,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "はがねの小手",
+        "imageName": "steel-gauntlet",
+        "category": "armor",
+        "def": 6,
+        "price": 6,
+        "giftRate": 6
+      },
+      {
+        "name": "精霊の足袋",
+        "imageName": "spiritual-socks",
+        "category": "armor",
+        "def": 6,
+        "ability": "cutCost",
+        "price": 20,
+        "giftRate": 1
+      },
+      {
+        "name": "フレイムアーマー",
+        "imageName": "flame-armor",
+        "category": "armor",
+        "element": "fire",
+        "def": 6,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "アイスアーマー",
+        "imageName": "ice-armor",
+        "category": "armor",
+        "element": "water",
+        "def": 6,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "森の盾",
+        "imageName": "forest-shield",
+        "category": "armor",
+        "element": "wood",
+        "def": 6,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "大地のかぶと",
+        "imageName": "land-helm",
+        "category": "armor",
+        "element": "stone",
+        "def": 6,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "ぴかぴかハイヒール",
+        "imageName": "shining-high-heels",
+        "category": "armor",
+        "element": "light",
+        "def": 6,
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "はがねのかぶと",
+        "imageName": "steel-helm",
+        "category": "armor",
+        "def": 7,
+        "price": 7,
+        "giftRate": 6
+      },
+      {
+        "name": "鬼のかぶと",
+        "imageName": "ogres-helm",
+        "category": "armor",
+        "atk": 10,
+        "isPlusAtk": true,
+        "def": 7,
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "スカイシールド",
+        "imageName": "sky-shield",
+        "category": "armor",
+        "def": 7,
+        "ability": "bounceMiracle",
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "バーニングシールド",
+        "imageName": "burning-shield",
+        "category": "armor",
+        "element": "fire",
+        "def": 7,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "スノーミトン",
+        "imageName": "snow-mitten",
+        "category": "armor",
+        "element": "water",
+        "def": 7,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "はがねの盾",
+        "imageName": "steel-shield",
+        "category": "armor",
+        "def": 8,
+        "price": 8,
+        "giftRate": 6
+      },
+      {
+        "name": "美しいガラス細工",
+        "imageName": "beautiful-glasswork",
+        "category": "armor",
+        "def": 8,
+        "price": 20,
+        "giftRate": 1
+      },
+      {
+        "name": "月光のかぶと",
+        "imageName": "moonlight-helm",
+        "category": "armor",
+        "def": 8,
+        "ability": "reflectMiracle",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "バーニングジャケット",
+        "imageName": "burning-jacket",
+        "category": "armor",
+        "element": "fire",
+        "def": 8,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "スノーマスク",
+        "imageName": "snow-mask",
+        "category": "armor",
+        "element": "water",
+        "def": 8,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "コハクの胸当て",
+        "imageName": "amber-breastplate",
+        "category": "armor",
+        "element": "wood",
+        "def": 8,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "大地のよろい",
+        "imageName": "land-armor",
+        "category": "armor",
+        "element": "stone",
+        "def": 8,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "はがねのよろい",
+        "imageName": "steel-armor",
+        "category": "armor",
+        "def": 9,
+        "price": 9,
+        "giftRate": 6
+      },
+      {
+        "name": "鬼のよろい",
+        "imageName": "ogres-armor",
+        "category": "armor",
+        "atk": 15,
+        "isPlusAtk": true,
+        "def": 9,
+        "price": 20,
+        "giftRate": 1
+      },
+      {
+        "name": "精霊の頭巾",
+        "imageName": "spiritual-hood",
+        "category": "armor",
+        "def": 9,
+        "ability": "cutCost",
+        "price": 20,
+        "giftRate": 1
+      },
+      {
+        "name": "スカイアーマー",
+        "imageName": "sky-armor",
+        "category": "armor",
+        "def": 9,
+        "ability": "bounceMiracle",
+        "price": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "エンゼルの小手",
+        "imageName": "angel-gauntlet",
+        "category": "armor",
+        "def": 9,
+        "ability": "blockMiracle",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "エナジーヘルム",
+        "imageName": "energy-helm",
+        "category": "armor",
+        "def": 10,
+        "price": 10,
+        "giftRate": 4
+      },
+      {
+        "name": "月光の盾",
+        "imageName": "moonlight-shield",
+        "category": "armor",
+        "def": 10,
+        "ability": "reflectMiracle",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "熱狂仮面",
+        "imageName": "fever-mask",
+        "category": "armor",
+        "element": "fire",
+        "def": 10,
+        "ability": "selfCurse",
+        "curse": "fever",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "きらきらドレス",
+        "imageName": "glittering-dress",
+        "category": "armor",
+        "element": "light",
+        "def": 10,
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "エナジーアーマー",
+        "imageName": "energy-armor",
+        "category": "armor",
+        "def": 11,
+        "price": 10,
+        "giftRate": 4
+      },
+      {
+        "name": "エンゼルの帽子",
+        "imageName": "angel-cap",
+        "category": "armor",
+        "def": 11,
+        "ability": "blockMiracle",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "コアバリヤー",
+        "imageName": "core-barrier",
+        "category": "armor",
+        "def": 12,
+        "price": 10,
+        "giftRate": 2
+      },
+      {
+        "name": "精霊の帯",
+        "imageName": "spiritual-sash",
+        "category": "armor",
+        "def": 12,
+        "ability": "cutCost",
+        "price": 20,
+        "giftRate": 1
+      },
+      {
+        "name": "月光のよろい",
+        "imageName": "moonlight-armor",
+        "category": "armor",
+        "def": 12,
+        "ability": "reflectMiracle",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "陽炎のよろい",
+        "imageName": "heat-haze-armor",
+        "category": "armor",
+        "element": "fire",
+        "def": 12,
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "コアプロテクター",
+        "imageName": "core-protector",
+        "category": "armor",
+        "def": 13,
+        "price": 10,
+        "giftRate": 2
+      },
+      {
+        "name": "エンゼルシールド",
+        "imageName": "angel-shield",
+        "category": "armor",
+        "def": 13,
+        "ability": "blockMiracle",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "夢見る帽子",
+        "imageName": "dreaming-hat",
+        "category": "armor",
+        "element": "wood",
+        "def": 14,
+        "ability": "selfCurse",
+        "curse": "dream",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "エンゼルアーマー",
+        "imageName": "angel-armor",
+        "category": "armor",
+        "def": 15,
+        "ability": "blockMiracle",
+        "price": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "神の盾",
+        "imageName": "god-shield",
+        "category": "armor",
+        "def": 30,
+        "price": 30,
+        "giftRate": 1
+      },
+      {
+        "name": "火星の指輪",
+        "imageName": "mars-ring",
+        "category": "armor",
+        "element": "fire",
+        "hitRate": 75,
+        "ability": "counterAtk",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "水星の指輪",
+        "imageName": "mercury-ring",
+        "category": "armor",
+        "element": "water",
+        "ability": "counterCurse",
+        "curse": "fog",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "木星の指輪",
+        "imageName": "jupiter-ring",
+        "category": "armor",
+        "element": "wood",
+        "ability": "counterCurse",
+        "curse": "dream",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "土星の指輪",
+        "imageName": "saturn-ring",
+        "category": "armor",
+        "element": "stone",
+        "ability": "counter2xAtk",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "天王の指輪",
+        "imageName": "uranus-ring",
+        "category": "armor",
+        "element": "light",
+        "ability": "counterCurse",
+        "curse": "flash",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "冥王の指輪",
+        "imageName": "pluto-ring",
+        "category": "armor",
+        "element": "darkness",
+        "ability": "counterCurse",
+        "curse": "darkcloud",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "海王の指輪",
+        "imageName": "neptune-ring",
+        "category": "armor",
+        "ability": "counterBoost2xMP",
+        "guardian": "neptune",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "金星の指輪",
+        "imageName": "venus-ring",
+        "category": "armor",
+        "ability": "counterTakeCP",
+        "guardian": "venus",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "虹のカーテン",
+        "imageName": "rainbow-curtain",
+        "category": "armor",
+        "ability": "filterAtkElement",
+        "price": 15,
+        "giftRate": 3
+      },
+      {
+        "name": "スーパーミラー",
+        "imageName": "super-mirror",
+        "category": "armor",
+        "ability": "reflectAnything",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "スマイルのしずく",
+        "imageName": "smile-dew",
+        "category": "sundries",
+        "ability": "boostHP",
+        "abilityValue": 5,
+        "price": 1,
+        "giftRate": 12
+      },
+      {
+        "name": "ハートのしずく",
+        "imageName": "heart-dew",
+        "category": "sundries",
+        "ability": "boostHP",
+        "abilityValue": 10,
+        "price": 3,
+        "giftRate": 8
+      },
+      {
+        "name": "ロマンスウォーター",
+        "imageName": "romance-water",
+        "category": "sundries",
+        "ability": "boostHP",
+        "abilityValue": 15,
+        "price": 5,
+        "giftRate": 4
+      },
+      {
+        "name": "天の川のおいしい水",
+        "imageName": "galaxy-geyser",
+        "category": "sundries",
+        "ability": "boostHP",
+        "abilityValue": 20,
+        "price": 20,
+        "giftRate": 1
+      },
+      {
+        "name": "スマイルの花",
+        "imageName": "smile-flower",
+        "category": "sundries",
+        "ability": "boostMP",
+        "abilityValue": 5,
+        "price": 1,
+        "giftRate": 12
+      },
+      {
+        "name": "ハートの花",
+        "imageName": "heart-flower",
+        "category": "sundries",
+        "ability": "boostMP",
+        "abilityValue": 10,
+        "price": 3,
+        "giftRate": 8
+      },
+      {
+        "name": "ロマンスの香木",
+        "imageName": "romance-fragrance",
+        "category": "sundries",
+        "ability": "boostMP",
+        "abilityValue": 15,
+        "price": 5,
+        "giftRate": 4
+      },
+      {
+        "name": "天国草",
+        "imageName": "heaven-herb",
+        "category": "sundries",
+        "ability": "boostMPAndAddCurse",
+        "abilityValue": 20,
+        "curse": "heaven",
+        "price": 20,
+        "giftRate": 1
+      },
+      {
+        "name": "スマイルの貝がら",
+        "imageName": "smile-shell",
+        "category": "sundries",
+        "ability": "removeMildCurses",
+        "price": 5,
+        "giftRate": 12
+      },
+      {
+        "name": "ハートの貝がら",
+        "imageName": "heart-shell",
+        "category": "sundries",
+        "ability": "removeAllCurses",
+        "price": 15,
+        "giftRate": 6
+      },
+      {
+        "name": "守護封印のつぼ",
+        "imageName": "guardian-sealed-jar",
+        "category": "sundries",
+        "ability": "setGuardian",
+        "price": 10,
+        "giftRate": 3
+      },
+      {
+        "name": "ドキドキ涙",
+        "imageName": "thump-thump-tear",
+        "category": "sundries",
+        "ability": "boostHPOrDamage",
+        "abilityValue": 10,
+        "price": 1,
+        "giftRate": 2
+      },
+      {
+        "name": "ちからの粉",
+        "imageName": "strength-powder",
+        "category": "sundries",
+        "atk": 10,
+        "isPlusAtk": true,
+        "price": 15,
+        "giftRate": 2
+      },
+      {
+        "name": "精霊のぬいぐるみ",
+        "imageName": "spiritual-doll",
+        "category": "sundries",
+        "ability": "cutCost",
+        "price": 5,
+        "giftRate": 2
+      },
+      {
+        "name": "夜空のホウキ",
+        "imageName": "night-sky-broom",
+        "category": "sundries",
+        "ability": "removeItems",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "女神の石けん",
+        "imageName": "goddess-s-soap",
+        "category": "sundries",
+        "ability": "removeUsedMiracles",
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "運命のひも",
+        "imageName": "string-of-fate",
+        "category": "sundries",
+        "ability": "callPhenomenon",
+        "price": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "太陽のお守り",
+        "imageName": "sun-amulet",
+        "category": "sundries",
+        "ability": "revive",
+        "abilityValue": 10,
+        "price": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "あぶないウス",
+        "imageName": "dangerous-mortar",
+        "category": "sundries",
+        "ability": "attractDanger",
+        "abilityValue": 99,
+        "price": 1,
+        "giftRate": 1
+      },
+      {
+        "name": "＜火の玉＞",
+        "imageName": "fireball",
+        "category": "miracles",
+        "element": "fire",
+        "atk": 2,
+        "isPlusAtk": true,
+        "cost": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "＜氷＞",
+        "imageName": "ice",
+        "category": "miracles",
+        "element": "water",
+        "atk": 4,
+        "cost": 2,
+        "giftRate": 1
+      },
+      {
+        "name": "＜大木＞",
+        "imageName": "big-tree",
+        "category": "miracles",
+        "element": "wood",
+        "atk": 6,
+        "cost": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "＜闇＞",
+        "imageName": "darkness",
+        "category": "miracles",
+        "element": "darkness",
+        "atk": 5,
+        "cost": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "＜岩＞",
+        "imageName": "rock",
+        "category": "miracles",
+        "element": "stone",
+        "atk": 8,
+        "cost": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "＜炎＞",
+        "imageName": "flame",
+        "category": "miracles",
+        "element": "fire",
+        "atk": 10,
+        "cost": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "＜吸収＞",
+        "imageName": "absorption",
+        "category": "miracles",
+        "element": "light",
+        "atk": 10,
+        "ability": "absorbHP",
+        "cost": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "＜流星＞",
+        "imageName": "meteor",
+        "category": "miracles",
+        "element": "light",
+        "atk": 10,
+        "isPlusAtk": true,
+        "cost": 7,
+        "giftRate": 1
+      },
+      {
+        "name": "＜滝＞",
+        "imageName": "waterfall",
+        "category": "miracles",
+        "element": "water",
+        "atk": 25,
+        "cost": 12,
+        "giftRate": 1
+      },
+      {
+        "name": "＜風＞",
+        "imageName": "wind",
+        "category": "miracles",
+        "ability": "addCurse",
+        "curse": "cold",
+        "cost": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "＜天国風＞",
+        "imageName": "heaven-wind",
+        "category": "miracles",
+        "ability": "addCurse",
+        "curse": "heaven",
+        "cost": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "＜霧＞",
+        "imageName": "fog",
+        "category": "miracles",
+        "element": "water",
+        "ability": "addCurse",
+        "curse": "fog",
+        "cost": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "＜夢＞",
+        "imageName": "dream",
+        "category": "miracles",
+        "element": "wood",
+        "ability": "addCurse",
+        "curse": "dream",
+        "cost": 7,
+        "giftRate": 1
+      },
+      {
+        "name": "＜暗雲＞",
+        "imageName": "dark-cloud",
+        "category": "miracles",
+        "element": "darkness",
+        "ability": "addCurse",
+        "curse": "darkcloud",
+        "cost": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "＜閃光＞",
+        "imageName": "flash",
+        "category": "miracles",
+        "element": "light",
+        "atk": 1,
+        "hitRate": 25,
+        "ability": "addCurseOnDamage",
+        "curse": "flash",
+        "cost": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "＜煙＞",
+        "imageName": "smoke",
+        "category": "miracles",
+        "element": "fire",
+        "atk": 5,
+        "hitRate": 75,
+        "cost": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "＜雪崩＞",
+        "imageName": "avalanche",
+        "category": "miracles",
+        "element": "water",
+        "atk": 8,
+        "hitRate": 75,
+        "cost": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "＜雷＞",
+        "imageName": "thunder",
+        "category": "miracles",
+        "element": "light",
+        "atk": 10,
+        "hitRate": 25,
+        "cost": 4,
+        "giftRate": 1
+      },
+      {
+        "name": "＜土石流＞",
+        "imageName": "mudflow",
+        "category": "miracles",
+        "element": "stone",
+        "atk": 12,
+        "hitRate": 50,
+        "cost": 7,
+        "giftRate": 1
+      },
+      {
+        "name": "＜マグマ＞",
+        "imageName": "magma",
+        "category": "miracles",
+        "element": "fire",
+        "atk": 15,
+        "hitRate": 75,
+        "cost": 10,
+        "giftRate": 1
+      },
+      {
+        "name": "＜氷河期＞",
+        "imageName": "ice-age",
+        "category": "miracles",
+        "element": "water",
+        "atk": 30,
+        "hitRate": 75,
+        "cost": 30,
+        "giftRate": 1
+      },
+      {
+        "name": "＜オーラ＞",
+        "imageName": "aura",
+        "category": "miracles",
+        "isPlusAtk": true,
+        "ability": "doubleAtk",
+        "cost": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "＜蜃気楼＞",
+        "imageName": "mirage",
+        "category": "miracles",
+        "isPlusAtk": true,
+        "ability": "attackEnemies",
+        "cost": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "＜壁＞",
+        "imageName": "wall",
+        "category": "miracles",
+        "ability": "blockWeapon",
+        "cost": 6,
+        "giftRate": 1
+      },
+      {
+        "name": "＜乱気流＞",
+        "imageName": "turbulence",
+        "category": "miracles",
+        "ability": "bounceMiracle",
+        "cost": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "＜泉＞",
+        "imageName": "spring",
+        "category": "miracles",
+        "ability": "boostHP",
+        "abilityValue": 10,
+        "guardian": "neptune",
+        "cost": 7,
+        "giftRate": 1
+      },
+      {
+        "name": "＜財宝＞",
+        "imageName": "treasure",
+        "category": "miracles",
+        "ability": "boostCP",
+        "abilityValue": 10,
+        "guardian": "venus",
+        "cost": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "＜音色＞",
+        "imageName": "tone",
+        "category": "miracles",
+        "ability": "removeMildCurses",
+        "cost": 3,
+        "giftRate": 1
+      },
+      {
+        "name": "＜歌声＞",
+        "imageName": "song",
+        "category": "miracles",
+        "ability": "removeAllCurses",
+        "cost": 5,
+        "giftRate": 1
+      },
+      {
+        "name": "＜解放＞",
+        "imageName": "release",
+        "category": "miracles",
+        "ability": "setGuardian",
+        "cost": 15,
+        "giftRate": 1
+      },
+      {
+        "name": "炎のささやき",
+        "imageName": "fire-whisper",
+        "category": "guardians",
+        "element": "fire",
+        "atk": 2,
+        "hitRate": 75,
+        "guardian": "mars",
+        "guardianActionRate": 6
+      },
+      {
+        "name": "炎のつぶやき",
+        "imageName": "fire-tweet",
+        "category": "guardians",
+        "element": "fire",
+        "atk": 3,
+        "hitRate": 75,
+        "guardian": "mars",
+        "guardianActionRate": 5
+      },
+      {
+        "name": "炎のしゃべり",
+        "imageName": "fire-buzz",
+        "category": "guardians",
+        "element": "fire",
+        "atk": 4,
+        "hitRate": 75,
+        "guardian": "mars",
+        "guardianActionRate": 4
+      },
+      {
+        "name": "炎のうなり",
+        "imageName": "fire-roar",
+        "category": "guardians",
+        "element": "fire",
+        "atk": 5,
+        "hitRate": 75,
+        "guardian": "mars",
+        "guardianActionRate": 3
+      },
+      {
+        "name": "炎の叫び",
+        "imageName": "fire-shout",
+        "category": "guardians",
+        "element": "fire",
+        "atk": 6,
+        "hitRate": 75,
+        "guardian": "mars",
+        "guardianActionRate": 2
+      },
+      {
+        "name": "霧雨",
+        "imageName": "drizzle",
+        "category": "guardians",
+        "element": "water",
+        "atk": 1,
+        "hitRate": 50,
+        "ability": "addCurseOnDamage",
+        "curse": "fog",
+        "guardian": "mercury",
+        "guardianActionRate": 6
+      },
+      {
+        "name": "かすむ息",
+        "imageName": "misty-breath",
+        "category": "guardians",
+        "element": "water",
+        "atk": 2,
+        "ability": "addCurseOnDamage",
+        "curse": "fog",
+        "guardian": "mercury",
+        "guardianActionRate": 5
+      },
+      {
+        "name": "しぶき",
+        "imageName": "splash",
+        "category": "guardians",
+        "element": "water",
+        "atk": 3,
+        "hitRate": 50,
+        "guardian": "mercury",
+        "guardianActionRate": 4
+      },
+      {
+        "name": "泡",
+        "imageName": "bubbles",
+        "category": "guardians",
+        "element": "water",
+        "atk": 3,
+        "guardian": "mercury",
+        "guardianActionRate": 3
+      },
+      {
+        "name": "あられ",
+        "imageName": "hail",
+        "category": "guardians",
+        "element": "water",
+        "atk": 6,
+        "hitRate": 50,
+        "guardian": "mercury",
+        "guardianActionRate": 2
+      },
+      {
+        "name": "枝",
+        "imageName": "branch",
+        "category": "guardians",
+        "element": "wood",
+        "atk": 1,
+        "guardian": "jupiter",
+        "guardianActionRate": 6
+      },
+      {
+        "name": "根っこ",
+        "imageName": "root",
+        "category": "guardians",
+        "element": "wood",
+        "atk": 2,
+        "guardian": "jupiter",
+        "guardianActionRate": 5
+      },
+      {
+        "name": "触手",
+        "imageName": "tentacles",
+        "category": "guardians",
+        "element": "wood",
+        "atk": 1,
+        "hitRate": 75,
+        "ability": "absorbHP",
+        "guardian": "jupiter",
+        "guardianActionRate": 4
+      },
+      {
+        "name": "紅葉",
+        "imageName": "colored-leaves",
+        "category": "guardians",
+        "element": "wood",
+        "ability": "addCurse",
+        "curse": "dream",
+        "guardian": "jupiter",
+        "guardianActionRate": 3
+      },
+      {
+        "name": "落ち葉の舞",
+        "imageName": "dance-of-fallen-leaves",
+        "category": "guardians",
+        "element": "wood",
+        "atk": 2,
+        "hitRate": 50,
+        "ability": "addCurseOnDamage",
+        "curse": "dream",
+        "guardian": "jupiter",
+        "guardianActionRate": 2
+      },
+      {
+        "name": "小石",
+        "imageName": "small-stone",
+        "category": "guardians",
+        "element": "stone",
+        "atk": 3,
+        "guardian": "saturn",
+        "guardianActionRate": 6
+      },
+      {
+        "name": "中石",
+        "imageName": "medium-stone",
+        "category": "guardians",
+        "element": "stone",
+        "atk": 5,
+        "guardian": "saturn",
+        "guardianActionRate": 5
+      },
+      {
+        "name": "大石",
+        "imageName": "large-stone",
+        "category": "guardians",
+        "element": "stone",
+        "atk": 7,
+        "guardian": "saturn",
+        "guardianActionRate": 4
+      },
+      {
+        "name": "体当たり",
+        "imageName": "body-press",
+        "category": "guardians",
+        "element": "stone",
+        "atk": 10,
+        "guardian": "saturn",
+        "guardianActionRate": 3
+      },
+      {
+        "name": "ダイヤモンドアクス",
+        "imageName": "diamond-axe",
+        "category": "guardians",
+        "element": "stone",
+        "atk": 15,
+        "guardian": "saturn",
+        "guardianActionRate": 2
+      },
+      {
+        "name": "点滅",
+        "imageName": "twinkle",
+        "category": "guardians",
+        "element": "light",
+        "atk": 2,
+        "guardian": "uranus",
+        "guardianActionRate": 6
+      },
+      {
+        "name": "電撃",
+        "imageName": "electric-shock",
+        "category": "guardians",
+        "element": "light",
+        "atk": 4,
+        "hitRate": 25,
+        "guardian": "uranus",
+        "guardianActionRate": 5
+      },
+      {
+        "name": "後光",
+        "imageName": "halo",
+        "category": "guardians",
+        "element": "light",
+        "ability": "addCurse",
+        "curse": "flash",
+        "guardian": "uranus",
+        "guardianActionRate": 4
+      },
+      {
+        "name": "祝福",
+        "imageName": "blessing",
+        "category": "guardians",
+        "element": "light",
+        "atk": 5,
+        "ability": "absorbHP",
+        "guardian": "uranus",
+        "guardianActionRate": 3
+      },
+      {
+        "name": "レーザービーム",
+        "imageName": "laser-beam",
+        "category": "guardians",
+        "element": "light",
+        "atk": 10,
+        "hitRate": 75,
+        "guardian": "uranus",
+        "guardianActionRate": 2
+      },
+      {
+        "name": "思考",
+        "imageName": "thinking",
+        "category": "guardians",
+        "element": "darkness",
+        "atk": 1,
+        "hitRate": 25,
+        "guardian": "pluto",
+        "guardianActionRate": 6
+      },
+      {
+        "name": "まばたき",
+        "imageName": "wink",
+        "category": "guardians",
+        "element": "darkness",
+        "atk": 2,
+        "guardian": "pluto",
+        "guardianActionRate": 5
+      },
+      {
+        "name": "不吉な予感",
+        "imageName": "ominous-premonition",
+        "category": "guardians",
+        "element": "darkness",
+        "ability": "addCurse",
+        "curse": "darkcloud",
+        "guardian": "pluto",
+        "guardianActionRate": 4
+      },
+      {
+        "name": "せき払い",
+        "imageName": "cough",
+        "category": "guardians",
+        "element": "darkness",
+        "atk": 4,
+        "guardian": "pluto",
+        "guardianActionRate": 3
+      },
+      {
+        "name": "挙手",
+        "imageName": "hand-raising",
+        "category": "guardians",
+        "element": "darkness",
+        "atk": 8,
+        "guardian": "pluto",
+        "guardianActionRate": 2
+      },
+      {
+        "name": "さざ波の音",
+        "imageName": "sound-of-ripples",
+        "category": "guardians",
+        "ability": "removeAllCurses",
+        "guardian": "neptune",
+        "guardianActionRate": 6
+      },
+      {
+        "name": "潮汁",
+        "imageName": "seafood-soup",
+        "category": "guardians",
+        "ability": "boostHP",
+        "abilityValue": 5,
+        "guardian": "neptune",
+        "guardianActionRate": 5
+      },
+      {
+        "name": "磯の香り",
+        "imageName": "beach-aroma",
+        "category": "guardians",
+        "ability": "boostMP",
+        "abilityValue": 5,
+        "guardian": "neptune",
+        "guardianActionRate": 4
+      },
+      {
+        "name": "あっさりした潮汁",
+        "imageName": "healthy-seafood-soup",
+        "category": "guardians",
+        "ability": "boostHP",
+        "abilityValue": 10,
+        "guardian": "neptune",
+        "guardianActionRate": 3
+      },
+      {
+        "name": "さわやかな磯の香り",
+        "imageName": "fresh-beach-aroma",
+        "category": "guardians",
+        "ability": "boostMP",
+        "abilityValue": 10,
+        "guardian": "neptune",
+        "guardianActionRate": 2
+      },
+      {
+        "name": "小銭ばらまき",
+        "imageName": "coin-scattering",
+        "category": "guardians",
+        "ability": "boostCPOfEverybody",
+        "abilityValue": 1,
+        "guardian": "venus",
+        "guardianActionRate": 6
+      },
+      {
+        "name": "わいろ",
+        "imageName": "bribe",
+        "category": "guardians",
+        "ability": "boostCPToEnemy",
+        "abilityValue": 5,
+        "guardian": "venus",
+        "guardianActionRate": 5
+      },
+      {
+        "name": "罰金",
+        "imageName": "fine",
+        "category": "guardians",
+        "ability": "takeCP",
+        "abilityValue": 3,
+        "guardian": "venus",
+        "guardianActionRate": 4
+      },
+      {
+        "name": "つまらない物",
+        "imageName": "little-something",
+        "category": "guardians",
+        "ability": "boostCP",
+        "abilityValue": 8,
+        "guardian": "venus",
+        "guardianActionRate": 3
+      },
+      {
+        "name": "豪華なアクセサリー",
+        "imageName": "luxury-accessory",
+        "category": "guardians",
+        "ability": "boostCP",
+        "abilityValue": 20,
+        "guardian": "venus",
+        "guardianActionRate": 2
+      },
+      {
+        "name": "供える",
+        "imageName": "offer-up",
+        "category": "guardians",
+        "ability": "addItem",
+        "guardian": "earth"
+      },
+      {
+        "name": "満月刀",
+        "imageName": "full-moon-blade",
+        "category": "guardians",
+        "atk": 10,
+        "guardian": "moon"
+      },
+      {
+        "name": "夕焼け",
+        "imageName": "afterglow",
+        "category": "phenomena",
+        "ability": "setCurseOfEverybody",
+        "curse": "fever",
+        "guardian": "mars"
+      },
+      {
+        "name": "濃霧",
+        "imageName": "dense-fog",
+        "category": "phenomena",
+        "ability": "setCurseOfEverybody",
+        "curse": "fog",
+        "guardian": "mercury"
+      },
+      {
+        "name": "きのこ大発生",
+        "imageName": "mushroom-outbreak",
+        "category": "phenomena",
+        "ability": "confuseEverybody",
+        "guardian": "jupiter"
+      },
+      {
+        "name": "砂漠竜巻",
+        "imageName": "desert-tornado",
+        "category": "phenomena",
+        "ability": "setHPOfEverybody",
+        "abilityValue": 1,
+        "guardian": "saturn"
+      },
+      {
+        "name": "巨大なタライ",
+        "imageName": "gigantic-tub",
+        "category": "phenomena",
+        "element": "light",
+        "atk": 50,
+        "ability": "attackSomebody"
+      },
+      {
+        "name": "ブラックホール",
+        "imageName": "black-hole",
+        "category": "phenomena",
+        "element": "darkness",
+        "atk": 30,
+        "hitRate": 75
+      },
+      {
+        "name": "暖流",
+        "imageName": "warm-current",
+        "category": "phenomena",
+        "ability": "boostHP",
+        "abilityValue": 50,
+        "guardian": "neptune"
+      },
+      {
+        "name": "金山隆起",
+        "imageName": "gold-mine-uplift",
+        "category": "phenomena",
+        "ability": "boostCPOfEverybody",
+        "abilityValue": 30,
+        "guardian": "venus"
+      },
+      {
+        "name": "磁気嵐",
+        "imageName": "magnetic-storm",
+        "category": "phenomena",
+        "ability": "shuffleItemsOfEverybody",
+        "guardian": "earth"
+      },
+      {
+        "name": "日食",
+        "imageName": "solar-eclipse",
+        "category": "phenomena",
+        "ability": "setGuardianOfEverybody",
+        "guardian": "moon"
+      }
+    ],
+    "texts": {
+      "abilities": {
+        "absorbHP": "HPを吸収する",
+        "addCurseOnDamage": "ダメージで{{curse}}",
+        "addItem": "神器を一つ供える",
+        "attackAfterDeath": "昇天のとき75%攻30",
+        "attackEnemies": "すべての敵に\u003cbr\u003e攻撃する",
+        "attackSomebody": "誰かに攻撃する",
+        "attractDanger": "あぶないキネから\u003cbr\u003e99ダメージ",
+        "blockMiracle": "奇跡を止める",
+        "blockWeapon": "無属性武器を止める",
+        "boostCP": "+¥{{cp}}",
+        "boostCPOfEverybody": "みんなにあげる",
+        "boostCPToEnemy": "敵にあげる",
+        "boostHP": "+HP{{hp}}",
+        "boostMP": "+MP{{mp}}",
+        "bounceMiracle": "奇跡を弾く",
+        "bounceWeapon": "無属性武器を弾く",
+        "buy": "神器を一つ買う",
+        "callPhenomenon": "超常現象が起こる",
+        "confuseEverybody": "みんなが三回ずつ\u003cbr\u003e勝手に行動する",
+        "consumeAllMP": "MPをすべて消費する",
+        "counter2xAtk": "攻{ダメージ×2}",
+        "counterAtk": "攻{ダメージ}",
+        "counterBoost2xMP": "+MP{ダメージ×2}",
+        "counterTakeCP": "¥{ダメージ} 没収",
+        "cutCost": "消費なしで奇跡を起こす",
+        "discard": "神器を捨てる",
+        "doubleAtk": "攻撃力を倍にする",
+        "exchange": "両替する\u003cbr\u003e(HP1=MP1=¥1)",
+        "filterAtkElement": "攻撃の属性をこし取る",
+        "orDamage": "または {{damage}}ダメージ",
+        "reflectAnything": "何でもはね返す",
+        "reflectMiracle": "奇跡をはね返す",
+        "reflectWeapon": "無属性武器をはね返す",
+        "removeAllCurses": "すべての災いを払う",
+        "removeItems": "神器を三つ掃き飛ばす",
+        "removeMildCurses": "風邪 熱病 霧 閃光\u003cbr\u003eの災いを払う",
+        "removeUsedMiracles": "起こした奇跡を二つ洗い流す",
+        "revive": "HP0になると +HP{{hp}}",
+        "sameDamage": "使用者に同じダメージ",
+        "selfCurse": "使用者に{{curse}}",
+        "sell": "神器を一つ売る",
+        "setCurseOfEverybody": "みんなに{{curse}}",
+        "setElement": "{{element}}に染める",
+        "setGuardian": "守護神が宿る",
+        "setGuardianOfEverybody": "みんなに守護神が宿る",
+        "setHPOfEverybody": "みんなのHPが{{hp}}になる",
+        "shuffleItemsOfEverybody": "みんなの神器が\u003cbr\u003e無作為に入れ替わる",
+        "takeCP": "¥{{cp}} 没収"
+      },
+      "alerts": {
+        "discard": "捨てる神器が選ばれていない",
+        "full": "所持神器がいっぱいで祈れない",
+        "miracles": "MPが足りない",
+        "pray": "武器を所持していると祈れない",
+        "sell": "売る神器が選ばれていない",
+        "targetPlayer": "神器を使う相手が選ばれていない"
+      },
+      "app": {
+        "title": "ゴッドフィールド"
+      },
+      "curseDescriptions": {
+        "cold": "自分の番に1ダメージ\u003cbr\u003e(こじらせると熱病)",
+        "darkcloud": "全体攻撃を受けると必ず命中する",
+        "dream": "授かった神器が50%の確率で別の神器に見える",
+        "fever": "自分の番に2ダメージ\u003cbr\u003e(こじらせると地獄病)",
+        "flash": "防御のときに神器を一つしか使えない",
+        "fog": "周りの状況がわからなくなる",
+        "heaven": "自分の番に+HP5\u003cbr\u003e(こじらせるとHP0になる)",
+        "hell": "自分の番に5ダメージ\u003cbr\u003e(こじらせると天国病)"
+      },
+      "curseNames": {
+        "cold": "風邪",
+        "darkcloud": "暗雲",
+        "dream": "夢",
+        "fever": "熱病",
+        "flash": "閃光",
+        "fog": "霧",
+        "heaven": "天国病",
+        "hell": "地獄病"
+      },
+      "duel": {
+        "cancelMatchmake": "取りやめる",
+        "matchmake": "相手を探す",
+        "matchmaking": "縁結び中"
+      },
+      "effects": {
+        "block": "止めた",
+        "bounce": "弾いた",
+        "confusion": "御乱心",
+        "cp": "¥{{cp}}",
+        "damage": "ダメージ",
+        "darkcloud": "不可避",
+        "die": "昇天",
+        "hit": "命中",
+        "hp": "HP{{hp}}",
+        "miss": "外れた",
+        "mp": "MP{{mp}}",
+        "poor": "貧乏",
+        "pray": "祈った",
+        "reflect": "はね返した",
+        "safe": "無事",
+        "upgradeHeaven": "発作"
+      },
+      "elementDescriptions": {
+        "": "無属性の攻撃は、どの属性でも防御できる。",
+        "darkness": "{{darkness}}の攻撃は、どの属性でも防御できる。\u003cbr\u003eただし、ダメージを受けるとHP0になる。",
+        "fire": "{{fire}}の攻撃は、{{water}}で防御できる。",
+        "light": "{{light}}の攻撃は、どの属性でも防御できない。",
+        "stone": "{{stone}}の攻撃は、{{wood}}で防御できる。",
+        "water": "{{water}}の攻撃は、{{fire}}で防御できる。",
+        "wood": "{{wood}}の攻撃は、{{stone}}で防御できる。"
+      },
+      "elementNames": {
+        "darkness": "冥属性",
+        "fire": "火属性",
+        "light": "天属性",
+        "stone": "土属性",
+        "water": "水属性",
+        "wood": "木属性"
+      },
+      "error": {
+        "error": "何かが壊れた"
+      },
+      "game": {
+        "atk": "攻{{atk}}",
+        "atkBy2xMP": "攻{MP×2}",
+        "block": "止める",
+        "bounce": "弾く",
+        "cost": "消費\u003cbr\u003eMP{{mp}}",
+        "counter": "反撃",
+        "cp": "¥",
+        "def": "守{{def}}",
+        "discard": "捨てる",
+        "doBuy": "買う",
+        "doNotBuy": "買わない",
+        "endingDraw": "みんな いなくなった",
+        "endingWin": "勝利",
+        "flash": "まぶしい",
+        "forgive": "許す",
+        "hitRate": "{{hitRate}}%",
+        "opening": "預言者たちの戦いが\u003cbr\u003e今始まる！",
+        "plusAtk": "+攻{{atk}}",
+        "pray": "祈る",
+        "price": "¥{{price}}",
+        "reflect": "はね返す",
+        "removeGame": "戦いを終わる",
+        "usedMiracles": "起こした奇跡"
+      },
+      "guardianDescriptions": {
+        "earth": "消耗品を司る守護神",
+        "jupiter": "木を司る守護神",
+        "mars": "火を司る守護神",
+        "mercury": "水を司る守護神",
+        "moon": "奇跡を司る守護神",
+        "neptune": "いやしを司る守護神",
+        "pluto": "冥を司る守護神",
+        "saturn": "土を司る守護神",
+        "uranus": "天を司る守護神",
+        "venus": "金を司る守護神"
+      },
+      "guardianNames": {
+        "earth": "地球神",
+        "jupiter": "木星神",
+        "mars": "火星神",
+        "mercury": "水星神",
+        "moon": "月神",
+        "neptune": "海王神",
+        "pluto": "冥王神",
+        "saturn": "土星神",
+        "uranus": "天王神",
+        "venus": "金星神"
+      },
+      "home": {
+        "art": "美術",
+        "artCredit": "いとう亜未",
+        "cooperation": "協力",
+        "design": "設計",
+        "designCredit": "グウジ",
+        "portugueseTranslation": "ポルトガル語翻訳",
+        "portugueseTranslationCredit": "Phobos \u0026 Igoor",
+        "privacyPolicy": "プライバシーポリシー",
+        "privacyPolicyDialog": "当ウェブサイトでは Google AdSense 及び Google Analytics を利用しています。",
+        "privacyPolicyLink": "Googleによるポリシーと規約",
+        "setUserName": "生誕する",
+        "soundMaterials": "効果音素材",
+        "soundMaterialsCredit": "ザ・マッチメイカァズ",
+        "userName": "預言者の名前"
+      },
+      "langNames": {
+        "en": "English",
+        "es": "Español",
+        "ja": "日本語",
+        "pt": "Português"
+      },
+      "menu": {
+        "roomPassword": "部屋の合言葉",
+        "setRoomPassword": "唱える",
+        "userCount": "預言者 {{count}} 人"
+      },
+      "modeDescriptions": {
+        "duel": "一人と対戦",
+        "hidden": "友達と対戦",
+        "open": "他人と対戦",
+        "training": "コンピュータと対戦"
+      },
+      "modeNames": {
+        "duel": "高速タイマン",
+        "hidden": "隠れ神殿",
+        "open": "公衆神殿",
+        "training": "修行"
+      },
+      "open": {
+        "hasEntry": "参加受付中",
+        "hasGame": "対戦中",
+        "newRoom": "新しい部屋",
+        "roomName": "部屋の名前",
+        "setRoomName": "作る",
+        "userCount": "預言者 {{count}} 人",
+        "users": "預言者"
+      },
+      "reference": {
+        "armor": "防具",
+        "armor1": "防具・上",
+        "armor2": "防具・下",
+        "bounceNote": "攻撃を弾くと、その攻撃は誰かに向かう。",
+        "curses": "災い",
+        "discardNote": "邪神の大剣とあぶないウスは捨てても戻って来るうえに1ダメージを受ける。",
+        "diseaseUpgradeNote": "病に病を重ねると悪化する。",
+        "diseasesNote": "病は自分の番のあとに5%の確率で自然に悪化する。",
+        "earthNote": "地球神は取引、武器、防具、雑貨を使う。",
+        "elements": "属性",
+        "elementsNote": "異なる属性の神器を一緒に使うと無属性になる。",
+        "fogNote": "霧の中から敵に神器を使う場合、使用先は敵の中から無作為に選ばれる。",
+        "giftRate": "授かり率",
+        "guardianActionNote": "守護神は敵の番のあとに25%の確率で行動する。",
+        "guardianActionRate": "行動率",
+        "guardians": "守護神",
+        "guardians1": "守護神・上",
+        "guardians2": "守護神・下",
+        "guardiansNote": "守護神はダメージを受けると10%の確率で去る。",
+        "lightNote": "{{light}}は、{{fire}}、{{water}}、{{wood}}、{{stone}}の代わりになれる。",
+        "miracles": "奇跡",
+        "miraclesNote": "奇跡を使うとMPを消費するが何度でも使える。",
+        "moonNote": "月神は奇跡を使う。",
+        "phenomena": "超常現象",
+        "reference": "教典",
+        "sundries": "雑貨",
+        "trade": "取引",
+        "usedMiraclesNote": "一度使った奇跡は、売る、買う、夜空のホウキの対象にならない。",
+        "weapons": "武器",
+        "weapons1": "武器・上",
+        "weapons2": "武器・下"
+      },
+      "room": {
+        "addGame": "戦いを始める",
+        "cancelSilence": "話を聞く",
+        "chat": "お告げ",
+        "chatLog": "昔のお告げ",
+        "chatToRoom": "部屋にお告げ",
+        "chatToTeam": "チームにお告げ",
+        "kick": "破門する",
+        "nameChars": "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉっゃゅょゎアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンヴガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォヵヶッャュョヮー",
+        "playerCount": "修行者 {{count}} 人",
+        "shuffleTeams": "チームをシャッフル",
+        "silence": "静粛に",
+        "solo": "個人戦",
+        "teams": "チーム戦",
+        "userCount": "預言者 {{count}} 人",
+        "users": "預言者"
+      }
+    }
+  }
+  
