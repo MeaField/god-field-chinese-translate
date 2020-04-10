@@ -185,7 +185,7 @@
       "giftRate": 1
     },
     {
-      "name": "弹射悠悠球",
+      "name": "喷气悠悠球",
       "imageName": "jet-yo-yo",
       "category": "weapons",
       "atk": 6,
@@ -211,7 +211,7 @@
       "giftRate": 1
     },
     {
-      "name": "未知的羽毛",
+      "name": "未知之羽",
       "imageName": "unknown-feather",
       "category": "weapons",
       "atk": 7,
@@ -347,7 +347,7 @@
       "giftRate": 1
     },
     {
-      "name": "恐怖的车轮",
+      "name": "恐怖车轮",
       "imageName": "horror-wheel",
       "category": "weapons",
       "atk": 11,
@@ -400,7 +400,7 @@
       "giftRate": 1
     },
     {
-      "name": "传说的剑鞘",
+      "name": "传说剑鞘",
       "imageName": "legendary-scabbard",
       "category": "weapons",
       "atk": 13,
@@ -544,7 +544,7 @@
       "giftRate": 1
     },
     {
-      "name": "烫手的刀",
+      "name": "灼热之刃",
       "imageName": "ouch-knife",
       "category": "weapons",
       "element": "fire",
@@ -553,7 +553,7 @@
       "giftRate": 1
     },
     {
-      "name": "点火杖",
+      "name": "纵火之杖",
       "imageName": "wand-of-ignition",
       "category": "weapons",
       "element": "fire",
@@ -564,7 +564,7 @@
       "giftRate": 1
     },
     {
-      "name": "荆棘之辫",
+      "name": "荆棘之鞭",
       "imageName": "thorn-whip",
       "category": "weapons",
       "element": "wood",
@@ -583,7 +583,7 @@
       "giftRate": 1
     },
     {
-      "name": "双刃剑摸具",
+      "name": "双刃剑模具",
       "imageName": "sword-ware",
       "category": "weapons",
       "element": "stone",
@@ -632,7 +632,7 @@
       "giftRate": 1
     },
     {
-      "name": "橡皮弓",
+      "name": "熟成橡胶弓",
       "imageName": "mature-rubber-bow",
       "category": "weapons",
       "element": "wood",
@@ -660,7 +660,7 @@
       "giftRate": 1
     },
     {
-      "name": "燃烧之卷",
+      "name": "燃烧卷轴",
       "imageName": "flaming-roll",
       "category": "weapons",
       "element": "fire",
@@ -2663,7 +2663,7 @@
       "counterAtk": "攻{伤害}",
       "counterBoost2xMP": "+MP{伤害×2}",
       "counterTakeCP": "没收¥{伤害}",
-      "cutCost": "释放奇迹无消耗",
+      "cutCost": "释放一个不消耗MP的奇迹",
       "discard": "丢弃神器",
       "doubleAtk": "攻击力加倍",
       "exchange": "进行兑换\u003cbr\u003e(HP1=MP1=¥1)",
@@ -2689,12 +2689,12 @@
       "takeCP": "¥{{cp}} 征税"
     },
     "alerts": {
-      "discard": "还没有选择用来舍弃的神器",
+      "discard": "还没有选择要舍弃的神器",
       "full": "所持神器已经满了，无法祈祷",
       "miracles": "MP不足",
       "pray": "持有武器，无法祈祷",
       "sell": "还没有选择用来卖的神器",
-      "targetPlayer": "还没有选择使用神器的目标对象"
+      "targetPlayer": "还没有选择使用神器的目标"
     },
     "app": {
       "title": "神田GodField"
@@ -2727,7 +2727,7 @@
     "effects": {
       "block": "防止",
       "bounce": "弹射",
-      "confusion": "御乱心",
+      "confusion": "混乱",
       "cp": "¥{{cp}}",
       "damage": "伤害",
       "darkcloud": "不可避",
@@ -2777,7 +2777,7 @@
       "endingDraw": "大家……都死掉了",
       "endingWin": "胜利",
       "flash": "闪光",
-      "forgive": "罢手",
+      "forgive": "饶恕",
       "hitRate": "{{hitRate}}%",
       "opening": "预言者们的战斗\u003cbr\u003e现在开始了！",
       "plusAtk": "+攻{{atk}}",
@@ -2812,18 +2812,18 @@
       "venus": "金星神"
     },
     "home": {
-      "art": "美術",
+      "art": "美术",
       "artCredit": "いとう亜未",
-      "cooperation": "協力",
-      "design": "設計",
+      "cooperation": "协力",
+      "design": "设计",
       "designCredit": "グウジ",
-      "portugueseTranslation": "ポルトガル語翻訳",
+      "portugueseTranslation": "葡萄牙语翻译",
       "portugueseTranslationCredit": "Phobos \u0026 Igoor",
-      "privacyPolicy": "プライバシーポリシー",
-      "privacyPolicyDialog": "当ウェブサイトでは Google AdSense 及び Google Analytics を利用しています。",
-      "privacyPolicyLink": "Googleによるポリシーと規約",
+      "privacyPolicy": "隐私政策",
+      "privacyPolicyDialog": "本站使用了Google AdSense及Google Analytics。",
+      "privacyPolicyLink": "Privacy & Terms by Google",
       "setUserName": "诞生",
-      "soundMaterials": "効果音素材",
+      "soundMaterials": "效果音素材",
       "soundMaterialsCredit": "ザ・マッチメイカァズ",
       "userName": "预言者的姓名"
     },
@@ -2831,7 +2831,7 @@
       "en": "English",
       "es": "Español",
       "ja": "日本語",
-      "pt": "Português"
+      "pt": "竟然是中文"
     },
     "menu": {
       "roomPassword": "房间密码",
@@ -2864,8 +2864,8 @@
       "armor1": "防具・上",
       "armor2": "防具・下",
       "bounceNote": "攻击被弹射后、攻击目标会随机选择。",
-      "curses": "灾难",
-      "discardNote": "在舍弃 邪神大剑 或 危险之臼 之后再摸到时会受到1点伤害。",
+      "curses": "灾祸",
+      "discardNote": "在舍弃 邪神巨剑 或 危险之臼 之后再摸到时会受到1点伤害。",
       "diseaseUpgradeNote": "病 状态叠加的话会恶化",
       "diseasesNote": "病 在自己的回合结束时有5%的几率自然恶化",
       "earthNote": "地球神会使用交易、武器、防具和杂货",
@@ -2881,7 +2881,7 @@
       "guardiansNote": "守护神在玩家受到伤害后有10%的几率离开",
       "lightNote": "{{light}}可以成为{{fire}}、{{water}}、{{wood}}、{{stone}}的替代。",
       "miracles": "奇迹",
-      "miraclesNote": "消费MP使用奇迹不限次数",
+      "miraclesNote": "奇迹虽消费MP，但可不限次数使用",
       "moonNote": "月神会使用奇迹。",
       "phenomena": "超常现象",
       "reference": "教典",
