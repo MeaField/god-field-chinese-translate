@@ -40,8 +40,9 @@ monkeyScript.user.js - 油猴脚本，加入油猴里使用
 2. 点开仓库名称下面一排按钮右边倒数第二个“服务”
 3. 点“Gitee Pages”
 4. 点橙色的“更新”按钮
-5. 访问资源看看更新了没：http://skydog.gitee.io/god-field-skydog-plugin/cn.json
+5. 访问资源看看更新了没：http://skydog.gitee.io/god-field-skydog-plugin/cn.json（打开网页后需要刷新）
 6. 进游戏看更新了没。没更新的话去油猴脚本设置里有个“外部”，把里面的资源手动删除一下就好了；不删的话不知道什么时候会自动更；
+（或者直接在https://greasyfork.org/en/scripts/400285-godfield-net-chinese-translate重新安装脚本）
 
 #### Contribution
 
