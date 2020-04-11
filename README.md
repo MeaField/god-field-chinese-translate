@@ -17,14 +17,18 @@ meameasuki
 
 #### Software Architecture
 cn.json - 翻译文件，会在gitee pages里被网络访问读取
+
 monkeyScript.user.js - 油猴脚本，加入油猴里使用
 
 #### Installation
 
 1.  chrome浏览器装油猴：https://www.tampermonkey.net/
 2.  
-方法一：去GreasyFork发布网站一键安装：https://greasyfork.org/en/scripts/400285-godfield-net-chinese-translate
-方法二：或者直接从这个gitee里把脚本拷到油猴新建脚本的地方
+    方法一：去GreasyFork发布网站一键安装：
+    
+    https://greasyfork.org/en/scripts/400285-godfield-net-chinese-translate
+    
+    方法二：或者直接从这个gitee里把脚本拷到油猴新建脚本的地方
 
 #### Instructions
 
