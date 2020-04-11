@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         godfield.net Chinese Translate
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      0.2
 // @description  make godfield.net to Chinese.
 // @supportURL   https://gitee.com/skydog/god-field-skydog-plugin
 // @author       237th,meameasuki
