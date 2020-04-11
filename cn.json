@@ -2640,10 +2640,10 @@
   "texts": {
     "abilities": {
       "absorbHP": "吸取HP",
-      "addCurseOnDamage": "伤害会附加{{curse}}",
+      "addCurseOnDamage": "造成伤害则附加{{curse}}",
       "addItem": "供奉一件神器",
-      "attackAfterDeath": "升天的时候75%攻30",
-      "attackEnemies": "攻击全体敌人",
+      "attackAfterDeath": "升天时变为75%攻30",
+      "attackEnemies": "攻击对象\u003cbr\u003e变为全体敌人",
       "attackSomebody": "会攻击某个人",
       "attractDanger": "从危险的杵受到\u003cbr\u003e99点伤害",
       "blockMiracle": "防止奇迹",
@@ -2700,14 +2700,14 @@
       "title": "神田GodField"
     },
     "curseDescriptions": {
-      "cold": "自己回合结束时受到1点伤害\u003cbr\u003e(恶化的话将会变成 发烧 状态)",
+      "cold": "自己回合结束时受到1点伤害\u003cbr\u003e(恶化的话变成 发烧 状态)",
       "darkcloud": "如果受到全体攻击\u003cbr\u003e则必然被命中",
       "dream": "获得的神器有50%的概率\u003cbr\u003e看成别的神器",
-      "fever": "自己回合结束时受到2点伤害\u003cbr\u003e(恶化的话将会变成 地狱病 状态)",
+      "fever": "自己回合结束时受到2点伤害\u003cbr\u003e(恶化的话变成 地狱病 状态)",
       "flash": "防御的时候只能使用一件防具",
       "fog": "变得搞不清场上的情况",
       "heaven": "自己回合结束时HP+5\u003cbr\u003e(恶化的话HP归零)",
-      "hell": "自己回合结束时受到5点伤害\u003cbr\u003e(恶化的话将会变成 天国病 状态)"
+      "hell": "自己回合结束时受到5点伤害\u003cbr\u003e(恶化的话变成 天国病 状态)"
     },
     "curseNames": {
       "cold": "感冒",
