@@ -34,6 +34,15 @@ monkeyScript.user.js - 油猴脚本，加入油猴里使用
 
 1.  装好后打开神田（godfield.net）就已经变中文了，记得选日文的话才能看到公共房间。
 
+#### 开发者更新翻译方法
+
+1. 在这个git里把那个cn.json更新；
+2. 点开仓库名称下面一排按钮右边倒数第二个“服务”
+3. 点“Gitee Pages”
+4. 点橙色的“更新”按钮
+5. 访问资源看看更新了没：http://skydog.gitee.io/god-field-skydog-plugin/cn.json
+6. 进游戏看更新了没。没更新的话去油猴脚本设置里有个“外部”，把里面的资源手动删除一下就好了；不删的话不知道什么时候会自动更；
+
 #### Contribution
 
 1.  Fork the repository
