@@ -2,7 +2,7 @@
 // @name         godfield.net Chinese Translate
 // @namespace    http://tampermonkey.net/
 // @version      0.1.1
-// @description  make godfield.net to Chinese. (ps. need to open a new page, F5 will become old languages)
+// @description  make godfield.net to Chinese.
 // @supportURL   https://gitee.com/skydog/god-field-skydog-plugin
 // @author       237th,meameasuki
 // @match        *://godfield.net/*
